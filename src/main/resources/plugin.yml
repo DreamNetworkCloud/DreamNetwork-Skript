@@ -1,0 +1,4 @@
+main: be.alexandre01.dreamnetwork.skript.Main
+name: DreamNetwork-Skript
+version: 1.0.0
+depend: [Skript,DreamNetwork-Core]

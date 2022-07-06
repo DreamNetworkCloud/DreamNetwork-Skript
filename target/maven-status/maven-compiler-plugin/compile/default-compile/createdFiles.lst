@@ -1,0 +1,7 @@
+be\alexandre01\dreamnetwork\skript\expression\GetServer.class
+be\alexandre01\dreamnetwork\skript\condition\IsStarted.class
+be\alexandre01\dreamnetwork\skript\expression\GetTemplate.class
+be\alexandre01\dreamnetwork\skript\expression\GetServers.class
+be\alexandre01\dreamnetwork\skript\Main.class
+be\alexandre01\dreamnetwork\skript\effects\StopEffect.class
+be\alexandre01\dreamnetwork\skript\effects\StartEffect.class
